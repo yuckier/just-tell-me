@@ -1,6 +1,6 @@
 ---
 name: just-tell-me
-description: Shapes output for maximum clarity and action-orientation. ONLY triggers on the explicit /just-tell-me command. When active, output leads with concrete next actions, numbers multi-step work, externalizes state across turns, suppresses tangents, gives specific time estimates, and makes completed work visible. Examples: "/just-tell-me", "/just-tell-me debug this", "/just-tell-me walk me through the deployment". Do NOT trigger on conversational messages, even if the user mentions brevity or clarity, without the /just-tell-me prefix.
+description: "Shapes output for maximum clarity and action-orientation. ONLY triggers on the explicit /just-tell-me command. When active, output leads with concrete next actions, numbers multi-step work, externalizes state across turns, suppresses tangents, gives specific time estimates, and makes completed work visible. Examples: \"/just-tell-me\", \"/just-tell-me debug this\", \"/just-tell-me walk me through the deployment\". Do NOT trigger on conversational messages, even if the user mentions brevity or clarity, without the /just-tell-me prefix."
 ---
 
 # just-tell-me
