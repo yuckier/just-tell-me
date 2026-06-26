@@ -2,7 +2,7 @@
 
 **Cut the fluff. Get the thing.**
 
-just-tell-me is a Claude Code skill that kills preamble, buries tangents, and serves every answer as a numbered action plan. No "Great question!", no "Hope this helps!", no detours.
+A skill definition that trains any LLM agent to kill preamble, bury tangents, and serve every answer as a numbered action plan. No "Great question!", no "Hope this helps!", no detours.
 
 ## What changes
 
@@ -18,13 +18,13 @@ First line = the thing you do. Last line = what you do next. Everything in betwe
 
 ## Install
 
-Drop the skill into your Claude Code project:
+Copy `skills/just-tell-me/SKILL.md` to your agent's skill directory, or reference it in your system prompt / project config.
 
 ```bash
 curl -O https://raw.githubusercontent.com/yuckier/just-tell-me/main/skills/just-tell-me/SKILL.md
 ```
 
-Then invoke it in Claude Code:
+Then invoke it with:
 
 ```
 /just-tell-me
