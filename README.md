@@ -2,7 +2,7 @@
 
 **Cut the fluff. Get the thing.**
 
-A skill definition that trains any LLM agent to kill preamble, bury tangents, and serve every answer as a numbered action plan. No "Great question!", no "Hope this helps!", no detours.
+A skill definition that trains LLM agents to kill preamble, bury tangents, and serve every answer as a numbered action plan. No "Great question!", no "Hope this helps!", no detours.
 
 ## What changes
 
@@ -51,7 +51,7 @@ Edit `skills/just-tell-me/SKILL.md` and re-invoke `/just-tell-me`. Your rules, y
 
 ## Credits
 
-Inspired by *The Adult ADHD Tool Kit* (Ramsay & Rostain) and the [`i-have-adhd`](https://github.com/ayghri/i-have-adhd) project. Adapted for anyone who wants answers, not essays.
+Inspired by the [`i-have-adhd`](https://github.com/ayghri/i-have-adhd) project. Adapted for anyone who wants answers, not essays.
 
 ## License
 
